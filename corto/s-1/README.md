@@ -1,13 +1,13 @@
-#Sesión 1. Introducción e instalación
+# Sesión 1. Introducción e instalación
 
 Recorrido express para llegar a la parte de la instalación 
 
 ## Índice de la sesión
 
-- Presentación
-- Introducción
-- Premisa general: el software como partitura y como ejecución
-- Instalación e introducción a SuperCollider y OpenFrameworks
+1. Presentación
+2. Introducción
+3. Premisa general: el software como partitura y como ejecución
+4. Instalación e introducción a SuperCollider y OpenFrameworks
 
 ## Presentación
 
@@ -16,9 +16,7 @@ Recorrido express para llegar a la parte de la instalación
 - [RGGTRN](https://rggtrn.github.io)
 - [LCNE](https://livecodenetensamble.wordpress.com/)
 
-## Introducción
-
-### Live coding como antecedente. Show us your screens, diálogo con el error y el texto como interfaz.
+## Introducción. Show us your screens, diálogo con el error y el texto como interfaz.
 
 PLab toma como antedente tres aspectos del live coding como práctica artística.
 
@@ -51,19 +49,19 @@ Texto permite comunicación y llevar a cabo el términos técnicos el "muestrano
 
 #### Finalmente... ¿Dónde se ha visto y dónde ha sonado el live coding? 
 
-Alexandra Cárdenas
-Michel Soto
-Marianne Teixido
-Alejandro Franco
+- Alexandra Cárdenas
+- Michel Soto
+- Marianne Teixido
+- Alejandro Franco
 
 La práctica en otras latitudes
 
-Shelly Knotts
-Kindohm
-OFFAL
-Renick Bell
-Olivia
-Los algoritmos
+- Shelly Knotts
+- Kindohm
+- OFFAL
+- Renick Bell
+- Olivia Jack
+- Los algoritmos
 
 #### Más recursos de interés
 

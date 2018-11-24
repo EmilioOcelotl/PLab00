@@ -61,34 +61,6 @@ Texto como interface.
 
 La última sesión es optativa y tiene por objetivo el planteamiento de problemas específicos y la indagación en posibles soluciones. 
 
-### PLab00. El software como prótesis. 
-
-El modo de larga duración está pensado a manera de seminario y tiene una duración de 13 sesiones. En ellas, será posible explorar detenidamente los puntos del modo de corta duración. Así mismo, será posible poner en práctica la vinculación de Orbit y SuperCollider con otros programas de desarrolladores latinoamericanos.
-
-El modo de larga duración plantea el análisis detenido de las premisas que impulsan Orbit pero también Canon Generator, CaosBox, Hydra, INSTURMENT y CineVivo. Esta modalidad tendrá como eje articulador la noción de desplazamiento. 
-
-Este modo desembocará en el proyecto ofhawc y buscará mostrar las posibilidades del software personalizado para la comprensión y el entendimiento de fenómenos no pueden ser aprehendidos por los sentidos humanos. En este sentido, el taller estará orientado a problematizar la siguiente premisa: el software es una prótesis que puede reducir la complejidad del mundo a dimensiones humanas. 
-
-#### Recursos Principales
-
-- SuperCollider
-- Orbit
-- OpenFrameworks
-- PiranhaLib
-
-#### Recursos secundarios
-
-- Canon Generator	
-- CaosBox
-- Hydra
-- INSTRUMENT
-- CineVivo
-- ofhawc
-
-#### Sesiones 1-13
-
-Próximamente. 
-
 ### Referencias
 
 - Cox, G. y McLean, A. (2013). Speaking Code. Coding as Aesthetic and Political Expression. The MIT Press.
