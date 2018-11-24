@@ -36,7 +36,7 @@ Escribir texto y debuggeo.
 Códigos parchados y modernidad barroca.
 El error como condición creativa.
 
-[El rey ha muerto ¡Viva el rey! (extracto)]
+[Campos de producción de música electrónica: live coding y música electroacústica.](https://github.com/EmilioOcelotl/PLab00/tree/master/corto/s-1/pdf/campos.pdf) Extraído de: Franco, A., Dávila, R., Ocelotl, E. (2017) Aproximaciones al término de música electroacústica en México. Una revisión del término Electroacústica en México. 
 
 #### El texto como interfaz
 
@@ -66,7 +66,7 @@ La práctica en otras latitudes
 #### Más recursos de interés
 
 - [TOPLAP](https://toplap.org/wiki/ManifestoDraft)
-- [Taller de Audio del CMM](http://cmm.cenart.gob.mx/tallerdeaudio/)(CENART, no quites el sitio en línea por favor :P)
+- [Taller de Audio del CMM](http://cmm.cenart.gob.mx/tallerdeaudio/) (CENART, no quites el sitio en línea por favor :P)
 - [Live coding en México. Hernani Villaseñor](http://www.hernanivillasenor.com/archivos/html/livecoding.html) (en constante actualización)
 - [La tesis de Jessica Rodríguez](http://www.repositorio.ugto.mx/handle/20.500.12059/412?fbclid=IwAR2RMkm_xxsy7jKNXGFGv67CS98AlGZvvvLMYrHrWA3RyIAqiiPHg7HFX9k)
 

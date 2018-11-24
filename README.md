@@ -34,7 +34,7 @@ Presentación.
 Instalación e introducción a SuperCollider y OpenFrameworks.
 Live Coding y Antecedentes.
 La programación como arte y como artesanía.
-[Sesión 1](https://github.com/EmilioOcelotl/PLab00/tree/master/corto/s-1)
+[Liga a la Sesión 1](https://github.com/EmilioOcelotl/PLab00/tree/master/corto/s-1)
 
 #### Sesión 2
 
@@ -92,7 +92,8 @@ Próximamente.
 ### Referencias
 
 - Cox, G. y McLean, A. (2013). Speaking Code. Coding as Aesthetic and Political Expression. The MIT Press.
-- Di Prospero, C. (2015). Social Imagination. In Proceedings of the First International Conference on Live Coding (pp. 69–73). Leeds, UK: ICSRiM, University of Leeds. 
+- Di Prospero, C. (2015). Social Imagination. In Proceedings of the First International Conference on Live Coding (pp. 69–73). Leeds, UK: ICSRiM, University of Leeds.
+-  Franco, A., Dávila, R., Ocelotl, E. (2017) Aproximaciones al término de música electroacústica en México. Una revisión del término Electroacústica en México. (Inédito). 
 - Manovich, L. (2001). The Language of New Media. Leonardo (Series) (Cam- bridge, Mass.). MIT Press.
 - Ocelotl, E., N. Del Angel, L. y Teixido M. (2018). Saborítmico: A Report From the Dance Floor in Mexico. Dancecult. Journal of Electronic Dance Music Culture. 10(1). 
 - Truax, B. (1992). Musical creativity and complexity at the threshold of the 21st century. Interface, 21(1):29–42.
