@@ -19,17 +19,14 @@ Esta modalidad toma en cuenta las propuestas de Geoff Cox y Alex McLean y desemb
 
 El modo de corta duración contempla tres sesiones de trabajo y una cuarta para presentación de proyectos. 
 
-PLab00 hace referencia a lecturas en línea que complementan el trabajo práctico con software. Estos recursos han sido seleccionados a partir de criterios de afinidad temática pero también han seguido criterios de accesibilidad en línea y de idioma. En este sentido, casi todos si no es que todos los recursos de este curso están en español y son de acceso libre. 
+PLab00 hace referencia a lecturas en línea que complementan el trabajo práctico con software. Estos recursos han sido seleccionados a partir de criterios de afinidad temática pero también han seguido criterios de accesibilidad en línea y de idioma. En este sentido, hay un interés por diversificar el idioma y la accesibilidad de los recursos.
 
 #### Recursos tecnológicos
 
 - [SuperCollider](https://supercollider.github.io/)
 - [Orbit](https://github.com/EmilioOcelotl/Orbit)
 - [OpenFrameworks](https://openframeworks.cc/) Solamente en caso de que no sea posible instalar Orbit o que se quiera instalar a mano
-- PiranhaLab
-
-Las instrucciones para descargar e instalar los programas se encuentran en:
-[Recursos](corto/recursos)
+- [PiranhaLib](https://github.com/EmilioOcelotl/PiranhaLib)
 
 #### Sesión 1
 
@@ -37,28 +34,28 @@ Presentación.
 Instalación e introducción a SuperCollider y OpenFrameworks.
 Live Coding y Antecedentes.
 La programación como arte y como artesanía.
-[Sesión 1](corto/s-1)
+[Sesión 1](tree/master/corto/s-1)
 
 #### Sesión 2
 
 Orbit. La importancia de hacer y personalizar programas. 
 Espacio, primitivos y videos.
 El software como partitura.
-[Sesión 2](corto/s-2)
+[Sesión 2](tree/master/corto/s-2)
 
 #### Sesión 3
 
 SuperCollider. El vínculo técnico y la comunidad participante. 
 Funciones de audio para controlar Orbit (y lo que sea).
 El software como performance. 
-[Sesión 3](corto/s-3)
+[Sesión 3](tree/master/corto/s-3)
 
 #### Sesión 4
 
 Audio y Video en relación dialéctica.
 Intuición vs protocolo de comunicación.
 Texto como interface. 
-[Sesión 4](corto/s-4)    	      	 
+[Sesión 4](tree/master/corto/s-4)    	      	 
 
 #### Presentación de trabajos. 
 
@@ -87,9 +84,6 @@ Este modo desembocará en el proyecto ofhawc y buscará mostrar las posibilidade
 - INSTRUMENT
 - CineVivo
 - ofhawc
-
-Instrucciones detalladas para la instalación y descarga de programas se pueden encontrar en:
-[Recursos](largo/recursos)
 
 #### Sesiones 1-13
 
